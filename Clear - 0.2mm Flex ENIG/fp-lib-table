@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Measurements")(type "KiCad")(uri "/Users/tf/Documents/Libraries/KiCad_flummer.net/Measurements.pretty")(options "")(descr ""))
+)
